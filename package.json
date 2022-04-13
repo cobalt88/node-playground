@@ -1,0 +1,22 @@
+{
+  "name": "node-playground",
+  "version": "1.0.0",
+  "description": "personal playground for node and express\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D and \u001b[2~\u001b[2 sandbox for node and express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cobalt88/node-playground.git"
+  },
+  "author": "cobalt88",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cobalt88/node-playground/issues"
+  },
+  "homepage": "https://github.com/cobalt88/node-playground#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
