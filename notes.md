@@ -1,5 +1,10 @@
 # General notes and things
 
+**CRUD**  
+C.R.U.D. stands for Create, Read, Update, Delete, which is a concept for restful routing (and live data updates?)
+HTTP Methods similar to CRUD - Post, Get, Put, Delete.
+
+
 ## Useful commands to remember:
 
 **ctrl + c** 
@@ -13,5 +18,3 @@ What nodemon does:
 * nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected. Very similar to the live server extension in VS Code.
 
 * here is the link to the documentation for nodemon https://www.npmjs.com/package/nodemon?activeTab=readme 
-
-* 
